@@ -1,0 +1,7 @@
+os
+dotenv
+pandas 
+psycopg2-binary
+massive 
+datetime
+airflow.sdk
